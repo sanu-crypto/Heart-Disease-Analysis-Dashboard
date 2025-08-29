@@ -1,0 +1,70 @@
+🔹 Key Insights from the Dashboard
+1. Overall Performance
+
+Survival Rate: ~67%–68% (majority of patients survive).
+
+Total Deaths: 34–96 (varies by gender selection).
+
+Total Survivors: 71–203.
+
+Average Age of Survival: ~58 years.
+
+2. Risk Factors (by Age Group)
+
+Smoking, High Blood Pressure, Anaemia, and Diabetes are strongly clustered in ages 51–70.
+
+Below 40, lifestyle diseases have much less impact.
+
+3. Survival Rate by Age
+
+Highest survival is in young patients (<40 yrs: up to 100%).
+
+Survival declines with age:
+
+40–50 yrs → ~70–76%
+
+51–60 yrs → ~60–75%
+
+61–70 yrs → ~70–74%
+
+71+ yrs → ~40%
+
+👉 Elderly patients (71+) have the lowest survival (40%).
+
+4. Biomarker Insights
+
+Serum Creatinine (indicator of kidney/heart stress):
+
+Elevated in deaths (1.2–1.5 on average).
+
+Higher creatinine correlates with higher death count.
+
+Ejection Fraction (heart pumping efficiency):
+
+Survivors have better ejection fraction (~41–44).
+
+Low values (<38) appear in groups with higher death counts.
+
+👉 Low ejection fraction + high creatinine strongly predict mortality.
+
+5. Gender-Based Insights
+
+Dashboard shows different survival rates for male and female patients:
+
+Females: ~68% survival, 62 deaths, 132 survivors.
+
+Males: ~67.6% survival, 34 deaths, 71 survivors.
+
+Women have a slightly better survival rate overall, though men have fewer deaths (possibly fewer male patients in dataset).
+
+🔹 Actionable Findings
+
+Elderly patients (71+) are the most vulnerable → need early intervention & monitoring.
+
+High serum creatinine and low ejection fraction are strong mortality predictors → should be part of routine check-ups.
+
+Lifestyle diseases (smoking, hypertension, diabetes) impact middle-aged (40–70) patients most. Preventive measures in this age group can improve survival.
+
+Female patients show marginally better survival → could indicate differences in treatment response or risk exposure.
+
+✅ This dashboard effectively shows which groups need more medical focus (elderly, high creatinine, low EF, comorbid patients) and gives a data-driven basis for improving patient outcomes.
