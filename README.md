@@ -1,6 +1,6 @@
 # Heart-Disease-Analysis-Dashboard
 📌 Project Overview
-
+#Heart_Disease_DATASET
 This project analyzes patient health data to understand survival rates, mortality factors, and risk indicators for heart disease. A Power BI dashboard was created to visualize patterns across age groups, gender, and key medical biomarkers such as serum creatinine and ejection fraction.
 
 The goal is to support early detection, risk stratification, and better decision-making in healthcare.
